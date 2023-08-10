@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "arc sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "latest",
+    "@architect/functions": "^7.0.0-RC.4"
+  }
+}
